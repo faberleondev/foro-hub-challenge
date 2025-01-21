@@ -66,7 +66,7 @@ Aquí tienes los enlaces directos a cada una de las dependencias utilizadas en e
 13. **Spring Security Test (v6.4.1)**:  
     [Maven Repository - spring-security-test](https://mvnrepository.com/artifact/org.springframework.security/spring-security-test/6.4.1)
 
-El archivo pom.xml debería de quedarte asi:
+Las dependencias del archivo pom.xml debería de quedarte asi:
 
 ```bash
 </dependencies>
